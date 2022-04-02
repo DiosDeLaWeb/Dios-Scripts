@@ -19,21 +19,22 @@ Vermelho = '\033[91m'
 Fim = '\033[0m'
 
 #logo
+os.system("clear")
 os.system("figlet SCRIPTS")
 os.system("figlet DIOS")
 print
-print "CODER BY: Dios De La Web"
-print "NEW TEAM 404"
+print "\033[92mCODER BY: Dios De La Web\033[0m"
+print "\033[92mNEW TEAM 404\033[0m"
 
-print "PREPARANDO VOCE PARA O HACKING"
+print "\033[92mPREPARANDO VOCE PARA O HACKING\033[0m"
 
-print "[+] PREPARANDO... "
+print "[+] \033[92mPREPARANDO...\033[0m "
 time.sleep(2)
-print "[+] AGUARDE... "
+print "[+] \033[92mAGUARDE...\033[0m "
 time.sleep(2)
-print "[+] COMECANDO "
+print "[+] \033[92mCOMECANDO\033[0m "
 time.sleep(2)
-print "[+] INSTALANDO FERRAMENTAS "
+print "[+] \033[92mINSTALANDO FERRAMENTAS\033[0m "
 
 #figlet
 os.system("figlet FIGLET")
