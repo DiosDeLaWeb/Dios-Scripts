@@ -23,7 +23,28 @@ os.system("clear")
 os.system("figlet SCRIPTS")
 os.system("figlet DIOS")
 print
-print "\033[92mCODER BY: Dios De La Web\033[0m"
+print "\033[93m            ▄▄▄▄▄▄▄\033[0m"
+print "\033[93m       ▄▄▀▀         ▀▀▄▄\033[0m"
+print "\033[93m     ▄▀                  ▀▄\033[0m"
+print "\033[93m   ▄▀   ▄▄▄▄▄▄▄▄▄▄▄      █\033[0m"
+print "\033[93m  █   ▄███████████████▄  █\033[0m"
+print "\033[93m █  ▄██▀ ▄▄▀███▀▄▄ ▀███   █\033[0m"
+print "\033[93m █  ▀█████████████████▀   █\033[0m"
+print "\033[93m █    ▀▀████████████▀     █\033[0m"
+print "\033[93m  █         ▀▀▀▀▀         ▄▀\033[0m"
+print "\033[93m   ▀▀▄▄▄▄           ▄▄▄▀▀\033[0m"
+print "\033[93m   ▄██▀▄▄▄█▀▀▀▀▀▀▀█▄▄▄▀██▄\033[0m"
+print "\033[93m ▄▀██       ▀▀▀▀▀▀▀      ██▀▄\033[0m"
+print "\033[93m█  ██                     ██  █\033[0m"
+print "\033[93m█  ██        CODDER       ██  █\033[0m"
+print "\033[93m█  ██ BY : DIOS DE LA WEB ██  █\033[0m"
+print "\033[93m█  ██                     ██  █\033[0m"
+print "\033[93m█  ██                     ██  █\033[0m"
+print "\033[93m█  ██▄                   ▄██  █\033[0m"
+print "\033[93m▀▀▄█ █▄▄▄▄         ▄▄▄▄█ █▄▀▀\033[0m"
+print "\033[93m           █▄▄▄▄▄▄▄█\033[0m"      
+print
+print "\033[92mCODDER BY: Dios De La Web\033[0m"
 print "\033[92mNEW TEAM 404\033[0m"
 
 print "\033[92mPREPARANDO VOCE PARA O HACKING\033[0m"
