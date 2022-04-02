@@ -19,29 +19,29 @@ Vermelho = '\033[91m'
 Fim = '\033[0m'
 
 #logo
-Print '''____   ____ ____  ___ ____ _____ ____
-/ ___| / ___|  _ \|_ _|  _ \_   _/ ___|   
-\___ \| |   | |_) || || |_) || | \___ \
- ___) | |___|  _ < | ||  __/ | |  ___) |
-|____/ \____|_| \_\___|_|    |_| |____/
- ____ ___ ___  _______________________
-|  _ \_ _/ _ \/ ___|___________________
-| | | | | | | \___ \___________________
-| |_| | | |_| |___) |__________________
-|____/___\___/|____/___________________
+Print " ____   ____ ____  ___ ____ _____ ____"
+Print "/ ___| / ___|  _ \|_ _|  _ \_   _/ ___|   "
+Print "\___ \| |   | |_) || || |_) || | \___ \"
+Print " ___) | |___|  _ < | ||  __/ | |  ___) |"
+Print "|____/ \____|_| \_\___|_|    |_| |____/"
+Print " ____ ___ ___  _______________________"
+Print "|  _ \_ _/ _ \/ ___|___________________"
+Print "| | | | | | | \___ \___________________"
+Print "| |_| | | |_| |___) |__________________"
+Print "|____/___\___/|____/___________________"
 
-\033[92mCODER BY: Dios De La Web
-NEW TEAM 404
+Print "CODER BY: Dios De La Web"
+Print "NEW TEAM 404"
 
-PREPARANDO VOCE PARA O HACKING\033[0m'''
+Print "PREPARANDO VOCE PARA O HACKING"
 
-print "[+] \033[92mPREPARANDO...\033[0m "
+print "[+] PREPARANDO... "
 time.sleep(2)
-print "[+] \033[92mAGUARDE...\033[0m "
+print "[+] AGUARDE... "
 time.sleep(2)
-print "[+] \033[92mCOMECANDO\033[0m "
+print "[+] COMECANDO "
 time.sleep(2)
-print "[+] \033[92mINSTALANDO FERRAMENTAS\033[0m "
+print "[+] INSTALANDO FERRAMENTAS "
 
 #figlet
 os.system("figlet FIGLET")
