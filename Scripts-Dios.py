@@ -39,7 +39,7 @@ print '''\033[91m ::::::::   ::::::::  :::::::::  ::::::::::: :::::::::  :::::::
 print
 print "\033[94mCODDER BY\033[0m : \033[92mDios De La Web\033[0m"
 print
-print "\033[94mSQUAD\033[0m : \033[92mNEW TEAM 404\033[0m"
+print "\033[94mTEAM\033[0m : \033[92mSkullS Society 404\033[0m"
 print
 print "\033[92mPREPARANDO VOCE PARA O HACKING\033[0m"
 print
