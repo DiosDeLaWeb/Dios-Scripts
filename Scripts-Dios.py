@@ -21,11 +21,11 @@ Fim = '\033[0m'
 #logo
 os.system("figlet SCRIPTS")
 os.system("figlet DIOS")
-Print
-Print "CODER BY: Dios De La Web"
-Print "NEW TEAM 404"
+print
+print "CODER BY: Dios De La Web"
+print "NEW TEAM 404"
 
-Print "PREPARANDO VOCE PARA O HACKING"
+print "PREPARANDO VOCE PARA O HACKING"
 
 print "[+] PREPARANDO... "
 time.sleep(2)
