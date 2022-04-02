@@ -19,29 +19,21 @@ Vermelho = '\033[91m'
 Fim = '\033[0m'
 
 #logo
-Print (" ____   ____ ____  ___ ____ _____ ____")
-Print ("/ ___| / ___|  _ \|_ _|  _ \_   _/ ___|")
-Print ("\___ \| |   | |_) || || |_) || | \___ \")
-Print (" ___) | |___|  _ < | ||  __/ | |  ___) |")
-Print ("|____/ \____|_| \_\___|_|    |_| |____/")
-Print (" ____ ___ ___  _______________________")
-Print ("|  _ \_ _/ _ \/ ___|___________________")
-Print ("| | | | | | | \___ \___________________")
-Print ("| |_| | | |_| |___) |__________________")
-Print ("|____/___\___/|____/___________________")
+os.system("figlet SCRIPTS")
+os.system("figlet DIOS")
+Print
+Print "CODER BY: Dios De La Web"
+Print "NEW TEAM 404"
 
-Print ("CODER BY: Dios De La Web")
-Print ("NEW TEAM 404")
+Print "PREPARANDO VOCE PARA O HACKING"
 
-Print ("PREPARANDO VOCE PARA O HACKING")
-
-print ("[+] PREPARANDO... ")
+print "[+] PREPARANDO... "
 time.sleep(2)
-print ("[+] AGUARDE... ")
+print "[+] AGUARDE... "
 time.sleep(2)
-print ("[+] COMECANDO ")
+print "[+] COMECANDO "
 time.sleep(2)
-print ("[+] INSTALANDO FERRAMENTAS ")
+print "[+] INSTALANDO FERRAMENTAS "
 
 #figlet
 os.system("figlet FIGLET")
